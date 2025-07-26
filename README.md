@@ -36,7 +36,7 @@ You can use a 4.5Hz geophone instead of the coil.
 <table border="1" cellpadding="5" cellspacing="0"  width="100%">
   <tr>
     <th>ESP32</th>
-    <th>ADS1115 Pin</th>
+    <th>ADS1115</th>
     <th>COIL</th>
     <th>Buzzer</th>
     <th>WS2812 LED</th>
