@@ -26,7 +26,7 @@ It features a 2.8 inch ILI9341, ADS1115 16bit ADC, a coil/magnet pendullum, visu
     <td>GND</td>
     <td>GND</td>
     <td></td>
-    <td></td>
+    <td>SPEAKER (+)</td>
     <td></td>
     <td>GND</td>
     <td>GND</td>
