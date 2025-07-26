@@ -29,6 +29,29 @@ You can use a 4.5Hz geophone instead of the coil.
       <img src="https://raw.githubusercontent.com/sorinbotirla/ESP32-Seismometer/refs/heads/main/images/20250726_102518.jpg" />
     </td>
   </tr>
+
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/sorinbotirla/ESP32-Seismometer/refs/heads/main/images/20250726_112213.jpg" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/sorinbotirla/ESP32-Seismometer/refs/heads/main/images/20250726_112231.jpg" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/sorinbotirla/ESP32-Seismometer/refs/heads/main/images/20250726_112241.jpg" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/sorinbotirla/ESP32-Seismometer/refs/heads/main/images/20250726_112248.jpg" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/sorinbotirla/ESP32-Seismometer/refs/heads/main/images/20250726_112301.jpg" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/sorinbotirla/ESP32-Seismometer/refs/heads/main/images/20250726_112313.jpg" />
+    </td>
+  </tr>
 </table>
 <br />
 <br />
