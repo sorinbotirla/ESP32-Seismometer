@@ -8,7 +8,7 @@ It features a 2.8 inch ILI9341, ADS1115 16bit ADC, a coil/magnet pendullum, visu
 <table width="100%">
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/sorinbotirla/ESP32-Seismometer/refs/heads/main/20250726_102441.jpg" />
+      <img src="https://raw.githubusercontent.com/sorinbotirla/ESP32-Seismometer/refs/heads/main/ezgif-10ff02c8f18650.gif" />
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/sorinbotirla/ESP32-Seismometer/refs/heads/main/20250726_102447.jpg" />
