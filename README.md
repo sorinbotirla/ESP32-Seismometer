@@ -55,6 +55,24 @@ You can use a 4.5Hz geophone instead of the coil.
 </table>
 <br />
 <br />
+<h2>Components</h2>
+You will need the following components: <br /> <br />
+1x ESP32 Board <br />
+1x 2.8 Inch ILI9341 TFT Display <br />
+1x WS2812 slim led strip (you will only need to cut it to only 7 LEDs) <br />
+1x ADS1115 16Bit ADC <br />
+ <br />
+You can use a 4.5Hz geophone or <br /> <br />
+You can build a vertical pendulum using: <br /> <br />
+1x Neodymium Cylinder Magnet <br />
+1x Copper wire Coil <br />
+1x Pendullum arm made of 4mm aluminum sheet  <br />
+1x Steel leaf spring to suspend the pendullum <br />
+ <br /> <br />
+I'd suggest going the simple way, using the geophone.
+
+<br />
+<br />
 <h2>Pinout</h2>
 <table border="1" cellpadding="5" cellspacing="0"  width="100%">
   <tr>
