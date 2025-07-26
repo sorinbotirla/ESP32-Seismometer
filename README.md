@@ -8,24 +8,24 @@ It features a 2.8 inch ILI9341, ADS1115 16bit ADC, a coil/magnet pendullum, visu
 <table width="100%">
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/sorinbotirla/ESP32-Seismometer/refs/heads/main/ezgif-10ff02c8f18650.gif" />
+      <img src="https://raw.githubusercontent.com/sorinbotirla/ESP32-Seismometer/refs/heads/main/images/ezgif-10ff02c8f18650.gif" />
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/sorinbotirla/ESP32-Seismometer/refs/heads/main/20250726_102447.jpg" />
+      <img src="https://raw.githubusercontent.com/sorinbotirla/ESP32-Seismometer/refs/heads/main/images/20250726_102447.jpg" />
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/sorinbotirla/ESP32-Seismometer/refs/heads/main/20250726_102449.jpg" />
+      <img src="https://raw.githubusercontent.com/sorinbotirla/ESP32-Seismometer/refs/heads/main/images/20250726_102449.jpg" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/sorinbotirla/ESP32-Seismometer/refs/heads/main/20250726_102458.jpg" />
+      <img src="https://raw.githubusercontent.com/sorinbotirla/ESP32-Seismometer/refs/heads/main/images/20250726_102458.jpg" />
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/sorinbotirla/ESP32-Seismometer/refs/heads/main/20250726_102503.jpg" />
+      <img src="https://raw.githubusercontent.com/sorinbotirla/ESP32-Seismometer/refs/heads/main/images/20250726_102503.jpg" />
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/sorinbotirla/ESP32-Seismometer/refs/heads/main/20250726_102518.jpg" />
+      <img src="https://raw.githubusercontent.com/sorinbotirla/ESP32-Seismometer/refs/heads/main/images/20250726_102518.jpg" />
     </td>
   </tr>
 </table>
