@@ -2,8 +2,37 @@
 <br />
 This seismometer is built using any ESP32 (I have used ESP32 Wroom).<br />
 It features a 2.8 inch ILI9341, ADS1115 16bit ADC, a coil/magnet pendullum, visual and acoustic feedback via 7x WS2812 LEDS and 1 passive buzzer.<br />
+<br />
+<br />
+<h2>Pictures</h2>
+<table width="100%">
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/sorinbotirla/ESP32-Seismometer/refs/heads/main/20250726_102441.jpg" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/sorinbotirla/ESP32-Seismometer/refs/heads/main/20250726_102447.jpg" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/sorinbotirla/ESP32-Seismometer/refs/heads/main/20250726_102449.jpg" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/sorinbotirla/ESP32-Seismometer/refs/heads/main/20250726_102458.jpg" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/sorinbotirla/ESP32-Seismometer/refs/heads/main/20250726_102503.jpg" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/sorinbotirla/ESP32-Seismometer/refs/heads/main/20250726_102518.jpg" />
+    </td>
+  </tr>
+</table>
+<br />
+<br />
 <h2>Pinout</h2>
-<table border="1" cellpadding="5" cellspacing="0">
+<table border="1" cellpadding="5" cellspacing="0"  width="100%">
   <tr>
     <th>ESP32</th>
     <th>ADS1115 Pin</th>
