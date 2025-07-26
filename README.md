@@ -60,7 +60,36 @@ You will need the following components: <br /> <br />
 1x ESP32 Board <br />
 1x 2.8 Inch ILI9341 TFT Display <br />
 1x WS2812 slim led strip (you will only need to cut it to only 7 LEDs) <br />
-1x ADS1115 16Bit ADC <br />
+1x ADS1115 16Bit ADC <br /><br />
+1x Passive Buzzer<br />
+1x spool of thin copper wire for soldering.<br />
+1x Soldering Iron<br />
+1x Solder<br />
+<br />
+<table valign="top">
+  <tr>
+    <td valign="top">
+      <h3>Esp32</h3>
+      <img src="https://raw.githubusercontent.com/sorinbotirla/ESP32-Seismometer/refs/heads/main/images/9283.jpg" width="200" />
+    </td>
+    <td valign="top">
+      <h3>2.8 inch ILI9341 TFT Display</h3>
+      <img src="https://raw.githubusercontent.com/sorinbotirla/ESP32-Seismometer/refs/heads/main/images/2.8inch-resistive-touch-lcd-6.jpg" width="200" />
+    </td>
+    <td valign="top">
+      <h3>ADS1115 16 Bit ADC</h3>
+      <img src="https://raw.githubusercontent.com/sorinbotirla/ESP32-Seismometer/refs/heads/main/images/ads1115-cjmcu-digital-analogic-converter-module-adc.jpg" width="150" />
+    </td>
+    <td valign="top">
+      <h3>WS2812 Slim LED Strip</h3>
+      <img src="https://raw.githubusercontent.com/sorinbotirla/ESP32-Seismometer/refs/heads/main/images/2.6mm_ultra_slim_ws2812c_2020_digital_rgb_led_strip_2_.jpg" width="200" />
+    </td>
+    <td valign="top">
+      <h3>4.5Hz Geophone</h3>
+      <img src="https://raw.githubusercontent.com/sorinbotirla/ESP32-Seismometer/refs/heads/main/images/high-sensitivity-geophone-4.5hz.jpg" width="200" />
+    </td>
+  </tr>
+</table>
  <br />
 You can use a 4.5Hz geophone or <br /> <br />
 You can build a vertical pendulum using: <br /> <br />
@@ -70,6 +99,27 @@ You can build a vertical pendulum using: <br /> <br />
 1x Steel leaf spring to suspend the pendullum <br />
  <br /> <br />
 I'd suggest going the simple way, using the geophone.
+<br />
+<br />
+<table>
+  <tr>
+    <td valign="top">
+      <h3>Coils (Thinner the better)</h3>
+      <img src="https://raw.githubusercontent.com/sorinbotirla/ESP32-Seismometer/refs/heads/main/images/s-l400.png" width="200" /><br />
+      <img src="https://raw.githubusercontent.com/sorinbotirla/ESP32-Seismometer/refs/heads/main/images/41XTCZcrocL._UF1000,1000_QL80_.jpg" width="200" /><br />
+      <img src="https://raw.githubusercontent.com/sorinbotirla/ESP32-Seismometer/refs/heads/main/images/enameled-copper-wire-500x500.webp" width="200" />
+    </td>
+    <td valign="top">
+      <h3>Magnet</h3>
+      <img src="https://raw.githubusercontent.com/sorinbotirla/ESP32-Seismometer/refs/heads/main/images/neodymium-cylinder-magnet-25mm-x-25mm-n52-344642_450x.webp" width="300" />
+    </td>
+    <td valign="top">
+      <h3>Aluminum sheets (Do not use steel)</h3>
+      <img src="https://raw.githubusercontent.com/sorinbotirla/ESP32-Seismometer/refs/heads/main/images/aluminum-plain-sheet-500x500.webp" width="200" /><br />
+      <img src="https://raw.githubusercontent.com/sorinbotirla/ESP32-Seismometer/refs/heads/main/images/Aluminum-Sheet-28.webp" width="200" />
+    </td>
+  </tr>
+</table>
 
 <br />
 <br />
