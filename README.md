@@ -1,7 +1,7 @@
 <h1>ESP32 Seismometer</h1>
 <br />
 This seismometer is built using any ESP32 (I have used ESP32 Wroom).<br />
-It features a 2.8 inch ILI9341, ADS1115 16bit ADC, a coil/magnet pendullum, visual and acoustic feedback via 7x WS2812 LEDS and 1 passive buzzer.<br />
+It features a 2.8 inch ILI9341 TFT Display, ADS1115 16bit ADC, a coil/magnet vertical pendullum, visual and acoustic feedback via 7x WS2812 LEDS and 1 passive buzzer.<br />
 You can use a 4.5Hz geophone instead of the coil.
 <br />
 <br />
